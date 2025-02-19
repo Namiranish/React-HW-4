@@ -27,7 +27,7 @@ export const data = [
         "genre": "Adventure, Drama, Sci-Fi",
         "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
         "poster_image": "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-        "main_image": "https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+        "main_image": "https://image.tmdb.org/t/p/original/mS4EvhsrT0SQZOlWrQEzWI5KiUa.jpg"
     },
     {
         "title": "Pulp Fiction",
@@ -37,7 +37,7 @@ export const data = [
         "genre": "Crime, Drama",
         "description": "Various interrelated stories of crime and redemption in Los Angeles.",
         "poster_image": "https://image.tmdb.org/t/p/original/jYqKxBbAUdfKq3BfHKivJytFiPL.jpg",
-        // "main_image": "https://example.com/pulp_fiction_main.jpg"
+        "main_image": "https://image.tmdb.org/t/p/original/wZbnRMarWnO4DJRisOaK4QEg1tl.jpg"
     },
     {
         "title": "The Shawshank Redemption",
@@ -47,7 +47,7 @@ export const data = [
         "genre": "Drama",
         "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
         "poster_image": "https://image.tmdb.org/t/p/original/lyQBXzOQSuE59IsHyhrp0qIiPAz.jpg",
-        // "main_image": "https://example.com/shawshank_main.jpg"
+        "main_image": "https://image.tmdb.org/t/p/original/20f2GThu22hp5MgCA4dg3bZ3gTS.jpg"
     },
     {
         "title": "The Godfather",
@@ -57,7 +57,7 @@ export const data = [
         "genre": "Crime, Drama",
         "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
         "poster_image": "https://image.tmdb.org/t/p/original/3Tf8vXykYhzHdT0BtsYTp570JGQ.jpg",
-        // "main_image": "https://example.com/godfather_main.jpg"
+        "main_image": "https://image.tmdb.org/t/p/original/wWJbBo5yjw22AIjE8isBFoiBI3S.jpg"
     },
     {
         "title": "Fight Club",
@@ -67,7 +67,7 @@ export const data = [
         "genre": "Drama",
         "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into something much more.",
         "poster_image": "https://image.tmdb.org/t/p/original/8kNruSfhk5IoE4eZOc4UpvDn6tq.jpg",
-        // "main_image": "https://example.com/fight_club_main.jpg"
+        "main_image": "https://image.tmdb.org/t/p/original/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg"
     },
     {
         "title": "Forrest Gump",
@@ -77,7 +77,7 @@ export const data = [
         "genre": "Drama, Romance",
         "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
         "poster_image": "https://image.tmdb.org/t/p/original/yu26pJwGFUyqTJWMWo1mMgBFJ0N.jpg",
-        "main_image": "https://example.com/forrest_gump_main.jpg"
+        "main_image": "https://image.tmdb.org/t/p/original/9wlYJy01XgvIhdf651FgyJkau07.jpg"
     },
     {
         "title": "The Matrix",
@@ -87,7 +87,7 @@ export const data = [
         "genre": "Action, Sci-Fi",
         "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
         "poster_image": "https://image.tmdb.org/t/p/original/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
-        "main_image": "https://example.com/matrix_main.jpg"
+        "main_image": "https://image.tmdb.org/t/p/original/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg"
     },
     {
         "title": "Avengers: Endgame",
@@ -97,6 +97,6 @@ export const data = [
         "genre": "Action, Adventure, Drama",
         "description": "After the devastating events of Avengers: Infinity War, the remaining Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
         "poster_image": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
-        "main_image": "https://example.com/endgame_main.jpg"
+        "main_image": "https://image.tmdb.org/t/p/original/2z7A7Qfcjb2UHF7ZAIZ2fOmPG9J.jpg"
     }
 ]
